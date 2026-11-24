@@ -8,7 +8,7 @@ Aplicação web feita com **React + TypeScript (Vite)** para pesquisar receitas,
 
 | Aluna | Componentes desenvolvidos |
 | --- | --- |
-| **[COLOQUE SEU NOME AQUI]** | Todos (10 componentes funcionais, listados abaixo) |
+| Larissa Viana Pereira | Todos (10 componentes funcionais, listados abaixo) |
 
 ## 🚀 Como instalar e usar
 
