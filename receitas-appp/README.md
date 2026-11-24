@@ -66,15 +66,6 @@ src/
 └── main.tsx      # ponto de entrada
 ```
 
-## 🖼 Prints das telas
-
-Adicione aqui os prints (crie a pasta `prints/` e coloque as imagens):
-
-- Home: `![Home](prints/home.png)`
-- Receitas: `![Receitas](prints/receitas.png)`
-- Detalhes: `![Detalhes](prints/detalhes.png)`
-- Favoritos: `![Favoritos](prints/favoritos.png)`
-
 ## 🌐 Deploy (opcional)
 
 Pode ser feito na Vercel ou Netlify: importe o repositório do GitHub, comando de build `npm run build`, pasta de saída `dist`. Em SPAs com rotas, configure o redirecionamento de todas as rotas para `index.html`.
